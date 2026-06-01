@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/01-av6hs0hzl1.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;600;700;800&display=swap","style"]
 :HL["/images/pureride-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lektorky","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tereza","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"NkRrz92jLTJHtvN-0d7Th"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lektorky","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tereza","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xQpi6Js9udCtVwGgG-T2a"}
